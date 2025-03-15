@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/env.ts","./src/server.ts","./src/configs/auth.ts","./src/controllers/ssessions-controller.ts","./src/controllers/users-controllers.ts","./src/database/prisma.ts","./src/middlewares/error-handling.ts","./src/routes/index.ts","./src/routes/sessions-routes.ts","./src/routes/users-routes.ts","./src/utils/AppError.ts"],"errors":true,"version":"5.8.2"}
